@@ -9,7 +9,7 @@
 
     $root = new Usuario();
 
-    $root->loadById(3);
+    $root->loadbyId(3);
 
     echo $root;
 ?>
